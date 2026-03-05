@@ -1,1 +1,1 @@
-![oh joe](https://github.com/user-attachments/assets/eb2112a2-a3c7-4fba-836c-f2d51a92f010)
+![загруженное](https://github.com/user-attachments/assets/465fc3ac-d9e2-49fe-8ad9-c752fc9871ce)
