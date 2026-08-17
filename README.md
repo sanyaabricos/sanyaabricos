@@ -13,4 +13,7 @@
 <img width="498" height="418" alt="michael-afton-freddy-carter" src="https://github.com/user-attachments/assets/a4d41199-a95a-4c55-af7d-3b73f930cb9c" />
 <img width="498" height="498" alt="blueycapsules-blueycapsules-michael-afton" src="https://github.com/user-attachments/assets/6b5a5f31-ba39-4175-be11-cfbf143ea0ba" />
 <img width="498" height="498" alt="michael-afton-fnaf" src="https://github.com/user-attachments/assets/baa60167-68e1-49c9-b8a3-0ddf331970b1" />
+<img width="498" height="373" alt="fnaf-bluey-capsules" src="https://github.com/user-attachments/assets/a79bdbf2-5a42-4679-884b-14d896e21d3e" />
+<img width="400" height="300" alt="michael-afton-fnaf" src="https://github.com/user-attachments/assets/998c936b-e2ba-4439-a4e2-c69fc49730c0" />
+<img width="498" height="373" alt="afton-fnaf" src="https://github.com/user-attachments/assets/f4cbdc62-a69a-4698-9a5e-c05072bb348d" />
 
